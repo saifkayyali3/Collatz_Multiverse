@@ -112,7 +112,7 @@ def visualize_graph():
     else:
         ax.plot(last_sequence, marker='o', linestyle='-', color='royalblue')
         ax.set_ylabel("Value")
-        ax.set_title(f"Collatz Sequence for {starting_number}", pad=20)
+        ax.set_title(f"Collatz Sequence for {starting_number}\nEntered Conjecture: {q}n+{r}", pad=20)
 
     mat.xlabel("Steps")
     mat.grid(True, linestyle='--', alpha=0.7)
