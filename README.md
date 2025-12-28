@@ -5,7 +5,7 @@ A professional-grade Python tool that explores the 3n + 1 problem, but with a tw
 
 #### Note: entered numbers lose precision as they become more unspeakably high
 
-#### If you want to check out the Research on this project and the findings or just test out large numbers without any inaccuracies: *[Click Here](https://github.com/saifkayyali3/Collatz_Research)*
+#### To test unspeakably high numbers accurately or see the Research behind this project: *[Click Here](https://github.com/saifkayyali3/Collatz_Research)*
 
 ---
 
